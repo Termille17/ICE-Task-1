@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mpho Ice Task", "Mpho Ice Task.csproj", "{1AE47B10-3833-424A-8134-8779D81A6AEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AE47B10-3833-424A-8134-8779D81A6AEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AE47B10-3833-424A-8134-8779D81A6AEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AE47B10-3833-424A-8134-8779D81A6AEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AE47B10-3833-424A-8134-8779D81A6AEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {91C86A12-60C6-4C5E-9B73-5D479E123337}
+	EndGlobalSection
+EndGlobal
